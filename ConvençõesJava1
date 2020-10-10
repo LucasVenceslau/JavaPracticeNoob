@@ -1,0 +1,22 @@
+package exercicio.convencoes.java;
+//Para classes, use a primeia letra maiúscula.
+//Feche métodos, strings etc. com ponto e vírgula.
+
+Public class ExercicioJava {
+	//Nomes de variáveis começam com letra minúscula. Se for formado por duas ou mais palavras, comece com minúscula e escreva as outras palavras do nome como maiúsculas.
+	Public static void main(String[] args) {
+		String nome = "";
+		String telefone = "";
+		String endereçoCobranca = "";
+		String nomeClientesLocais = "";
+	}
+}
+//Constantes são representadas com letras maiúsculas, ex., PI	
+Public class ExercicioJavaDois {
+	Public static void main(String[] args) {
+		double PI = 3.14;
+	//Nome da aplicação também é tudo maiúsculo. Palavras separadas por underline.
+		String NOME_APLICAÇÃO = "ExercicioConvencoesJava";
+	}
+}	
+//Nomes de métodos seguem o padrão de variáveis.
