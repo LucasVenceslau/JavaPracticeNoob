@@ -6,7 +6,7 @@ public class Vari {			//sem acento porque o compilador não aceita
 //Declaração de variáveis:
 
 	int contador = 1;
-	char a = 3;
+	char a = 'a'; //variáveis tipo char recebem 1 caractere entre áspas simples
 	double decimal = 0.5;
 	boolean vouf = true;
 
